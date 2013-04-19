@@ -28,7 +28,7 @@ public class API {
 					
 					@Override
 					public void result(int arg0, int arg1, Intent arg2) {
-						//Everything went fine
+						task.success();
 					}
 				});
 	        }
