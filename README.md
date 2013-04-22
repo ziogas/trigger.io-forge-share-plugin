@@ -15,3 +15,8 @@ forge.internal.call(
 ```
 
 More information can be found at http://docs.trigger.io/en/v1.4/modules/native/index.html
+
+License
+--------------
+All source is licensed under [MIT]
+[MIT]: http://www.opensource.org/licenses/MIT
